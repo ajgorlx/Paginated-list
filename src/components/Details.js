@@ -14,7 +14,7 @@ function Details(){
 
     return(
         <div>
-        <h2>Posts</h2>
+        <h2>|Posts|</h2>
             <table className='table'>
             <thead>
             <tr>
